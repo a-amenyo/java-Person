@@ -45,4 +45,4 @@ public class SimpleCalculator {
 
        this.secondNumber = secondNumber;
     }
-}
+}//Agbesi.Amenyo
